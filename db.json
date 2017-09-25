@@ -1,29 +1,14 @@
 [
-	{
-		"section_name":"Sesi 14 - Prinsip komunikasi perusahaan",
-		"unit_name":"Diskusi Sesi 14",
-		"title":"PCC-S14-WD",
-		"klass_name":"Kelas Principles of Corporate Communication (MST802)",
-		"created_at":"07\/07\/2017 23:25:54",
-		"total_posts":24,
-		"url":"http:\/\/lspr-lms.harukaedu.dev\/lecturers\/learning_activity\/73\/sections\/406\/units\/1930"
-	},
-	{
-		"section_name":"Sesi 15 - Analisis Studi Kasus: Toyota Recall",
-		"unit_name":"Diskusi Sesi 15",
-		"title":"PCC-S15-WD",
-		"klass_name":"Kelas Principles of Corporate Communication (MST802)",
-		"created_at":"16\/07\/2017 16:08:42",
-		"total_posts":21,
-		"url":"http:\/\/lspr-lms.harukaedu.dev\/lecturers\/learning_activity\/73\/sections\/407\/units\/1936"
-	},
-	{
-		"section_name":"Sesi 11 - Pengamatan Lingkungan",
-		"unit_name":"Diskusi Sesi 11",
-		"title":"PCC-S11-WD",
-		"klass_name":"Kelas Principles of Corporate Communication (MST802)",
-		"created_at":"30\/05\/2017 10:09:12",
-		"total_posts":1,
-		"url":"http:\/\/lspr-lms.harukaedu.dev\/lecturers\/learning_activity\/73\/sections\/403\/units\/1889"
-	}
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
